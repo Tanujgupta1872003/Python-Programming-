@@ -1,5 +1,3 @@
-# Print Four Consective Numbers and Sum
-
 a = int(input("Enter a Number: "))
 c1 = a+1
 c2 = a+2
