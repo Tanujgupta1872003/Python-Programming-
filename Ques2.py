@@ -1,5 +1,3 @@
-# Calculate Area n Perimeter of Rectangle
-
 l = int(input("Enter Value of Lenght: "))
 b = int(input("Enter Value of Breadth: "))
 ar = l*b
