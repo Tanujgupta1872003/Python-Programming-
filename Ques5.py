@@ -1,4 +1,3 @@
-# Calculate Net Salary
 bs = float(input("Enter basic Salary: "))
 
 hr = (12.5/100)*bs
